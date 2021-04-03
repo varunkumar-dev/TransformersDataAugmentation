@@ -1,7 +1,6 @@
 # Data Augmentation using Pre-trained Transformer Models
 
-### This code is originally released from amazon-research package (https://github.com/amazon-research/transformers-data-augmentation) 
-### In the paper, we mentioned https://github.com/varinf/TransformersDataAugmentation url so we are providing a copy of the same code here. 
+This code is originally released from amazon-research package (https://github.com/amazon-research/transformers-data-augmentation) In the paper, we mentioned https://github.com/varinf/TransformersDataAugmentation url so we are providing a copy of the same code here. 
 
 Code associated with the [Data Augmentation using Pre-trained Transformer Models](https://www.aclweb.org/anthology/2020.lifelongnlp-1.3.pdf) paper
 
